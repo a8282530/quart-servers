@@ -1,0 +1,5 @@
+curl_cffi
+tls_client
+aiofiles
+quart
+quart_cors
