@@ -1,0 +1,4 @@
+tasks:
+  - name: quart servers
+    init: pip install -r requirements.txt 
+    command: python app.py
